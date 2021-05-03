@@ -7,8 +7,8 @@ cause it use memory stream.
 But. Small file are super fast encrypt and decrypt process.
 
 
-## You Can Download and Run it you desktop...
-https://github.com/rasel-code-dev/C-Cryptography-File-Encrypt/bin/debug/netcoreapp3.1/c#-new-app.exe
+## You Can Download and Run it in your Desktop...
+https://github.com/rasel-code-dev/C-Sharp-Cryptography-File-Encrypt/raw/master/bin/Debug/netcoreapp3.1/c%23-new-app.exe
 
 NOTE: To run this exe it need netcoreapp3.1 folder in repo
 
