@@ -1,0 +1,13 @@
+C:\Users\RaseL\Desktop\c#-new-app\bin\Debug\netcoreapp3.1\c#-new-app.exe
+C:\Users\RaseL\Desktop\c#-new-app\bin\Debug\netcoreapp3.1\c#-new-app.deps.json
+C:\Users\RaseL\Desktop\c#-new-app\bin\Debug\netcoreapp3.1\c#-new-app.runtimeconfig.json
+C:\Users\RaseL\Desktop\c#-new-app\bin\Debug\netcoreapp3.1\c#-new-app.runtimeconfig.dev.json
+C:\Users\RaseL\Desktop\c#-new-app\bin\Debug\netcoreapp3.1\c#-new-app.dll
+C:\Users\RaseL\Desktop\c#-new-app\bin\Debug\netcoreapp3.1\c#-new-app.pdb
+C:\Users\RaseL\Desktop\c#-new-app\obj\Debug\netcoreapp3.1\c#-new-app.csprojAssemblyReference.cache
+C:\Users\RaseL\Desktop\c#-new-app\obj\Debug\netcoreapp3.1\c#-new-app.AssemblyInfoInputs.cache
+C:\Users\RaseL\Desktop\c#-new-app\obj\Debug\netcoreapp3.1\c#-new-app.AssemblyInfo.cs
+C:\Users\RaseL\Desktop\c#-new-app\obj\Debug\netcoreapp3.1\c#-new-app.csproj.CoreCompileInputs.cache
+C:\Users\RaseL\Desktop\c#-new-app\obj\Debug\netcoreapp3.1\c#-new-app.dll
+C:\Users\RaseL\Desktop\c#-new-app\obj\Debug\netcoreapp3.1\c#-new-app.pdb
+C:\Users\RaseL\Desktop\c#-new-app\obj\Debug\netcoreapp3.1\c#-new-app.genruntimeconfig.cache
